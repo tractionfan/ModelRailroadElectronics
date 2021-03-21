@@ -1,2 +1,2 @@
 # ModelRailroadElectronics
-Arduino PRO-MINI used to simulate the operation of a streetcar K-1 Controller
+This repository contains a selection of Arduino based projects in support of Model Railroading.  Projects using Arduino MEGA, UNO, PRO-MINI, ATTINY84 and ATTINY85 micro-controllers are/will be included.
